@@ -5,6 +5,8 @@ We were attempting to create an interactive info graphic so that users could get
 
 This makes use of Green Sock Animation Platform (GSAP), Scroll Magic (a plugin for GSAP), and jQuery (the greatest web framework ever) .
 
+[Demo](http://jqninja.github.io/)
+
 
 Contributors:
 
